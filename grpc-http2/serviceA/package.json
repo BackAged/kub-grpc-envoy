@@ -1,0 +1,16 @@
+{
+  "name": "up-running-kub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "express": "^4.16.1",
+    "grpc": "^1.24.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
