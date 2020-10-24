@@ -1,1 +1,1 @@
-# kub-grpc-envoy
+# kub-grpc-envoy proof of concept
