@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.5.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.16.1",
     "grpc": "^1.24.3"
   },
