@@ -10,7 +10,7 @@
     "@grpc/proto-loader": "^0.5.4",
     "axios": "^0.19.2",
     "express": "^4.16.1",
-    "grpc": "^1.24.3"
+    "grpc": "^1.24.9"
   },
   "author": "",
   "license": "ISC"
