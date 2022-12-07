@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.5.4",
-    "express": "^4.16.1",
+    "express": "^4.18.2",
     "grpc": "^1.24.3"
   },
   "author": "",
